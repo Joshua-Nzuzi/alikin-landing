@@ -2,6 +2,8 @@
 
 ![Alikin Banner](docs/alikin-landing-ui.png)
 
+![Alikin footer](docs/screen2.png)
+
 
 
 ## 📖 À propos
@@ -20,7 +22,7 @@ L'objectif est de devenir **la véritable vitrine du e-commerce Kinois** où il 
 
 ## 🚀 Déploiement
 
-Le site est déployé sur **Vercel** : 
+Le site est déployé sur **Vercel** : [alikin-landing-pedxhpmiu-joshua-nzuzis-projects.vercel.app](https://alikin-landing-pedxhpmiu-joshua-nzuzis-projects.vercel.app)
 
 ---
 
