@@ -1,6 +1,6 @@
 # 🌐 Alikin Landing Page
 
-![Alikin Banner](./docs/alikin-landing-ui.png)
+![Alikin Banner](docs/alikin-landing-ui.png)
 
 
 
