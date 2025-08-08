@@ -1,6 +1,7 @@
 # 🌐 Alikin Landing Page
 
-![Alikin Banner](./public/images/alikin-landing-ui.png)
+![Alikin Banner](./docs/alikin-landing-ui.png)
+
 
 
 ## 📖 À propos
