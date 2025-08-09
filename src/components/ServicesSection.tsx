@@ -61,32 +61,33 @@ const ServicesSection = () => {
       </div>
               {/* Moyens de paiement */}
               <div className="mt-16 max-w-2xl mx-auto text-center">
-          <h3 className="text-lg font-semibold text-gray-900 mb-4">
-            Paiement rapide & sécurisé
-          </h3>
-          <div className="flex justify-center items-center gap-4 md:gap-6">
-            <img
-              src="/images/Visa.png"
-              alt="Visa"
-              className="h-10 w-auto object-contain"
-            />
-            <img
-              src="/images/Orange_money.png"
-              alt="Orange Money"
-              className="h-10 w-auto object-contain"
-            />
-            <img
-              src="/images/Mpesa.png"
-              alt="M-Pesa"
-              className="h-10 w-auto object-contain"
-            />
-            <img
-              src="/images/Cash.png"
-              alt="cash-on-delivery"
-              className="h-10 w-auto object-contain"
-            />
-          </div>
-        </div>
+  <h3 className="text-lg font-semibold text-gray-900 mb-4">
+    Paiement rapide & sécurisé
+  </h3>
+  <div className="flex flex-wrap justify-center items-center gap-4 md:gap-6">
+    <img
+      src="/images/Visa.png"
+      alt="Visa"
+      className="h-10 w-auto object-contain"
+    />
+    <img
+      src="/images/Orange_money.png"
+      alt="Orange Money"
+      className="h-10 w-auto object-contain"
+    />
+    <img
+      src="/images/Mpesa.png"
+      alt="M-Pesa"
+      className="h-10 w-auto object-contain"
+    />
+    <img
+      src="/images/Cash.png"
+      alt="cash-on-delivery"
+      className="h-10 w-auto object-contain"
+    />
+  </div>
+</div>
+
     </section>
   );
 };
